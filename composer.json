@@ -1,0 +1,17 @@
+{
+  "name": "peterschriever/simple-database-seeder",
+  "description": "This is a simple database seeder script I wrote for school.",
+  "type": "script",
+  "require": {
+    "fzaninotto/faker": "^1.6"
+  },
+  "authors": [
+    {
+      "name": "Peter Schriever",
+      "email": "peterzen72@gmail.com"
+    }
+  ],
+  "license": "GNU general public license v3",
+  "autoload": {
+  }
+}

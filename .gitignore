@@ -3,3 +3,6 @@
 *.java
 composer.lock
 /.idea
+bars.php
+ojdbc5.jar
+/instantclient_12_1
